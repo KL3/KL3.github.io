@@ -10,5 +10,5 @@ My name is Kevin Lu.
 - What else is there
 
 ### See my other blog 
-https://thelureview.com/
+[The Lu Review](https://thelureview.com/)
 
